@@ -1,0 +1,5 @@
+MonoState的意思就是"单一的状态"。
+
+MonoState模式同Singleton一样也是一种保证单一性的模式。
+
+MonoState模式却是将它的构造函数声明为public，而将类中所有的字段声明为static（类属）。换句话说，MonoState并不限制创建对象的个数，但是它的状态却只有一个状态。
