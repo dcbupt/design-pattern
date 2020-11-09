@@ -1,4 +1,0 @@
-抽象工厂模式用于扩展系统，工厂包模式是利用builder模式先构建好工厂包，在从工厂包里获取对象，类似于一个map，根据key获取value
-
-weaponFactory：工厂包，根据key获取对应的value
-builder：构建工厂包，填充对象

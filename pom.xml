@@ -10,6 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>create-pattern</module>
+        <module>behavior-pattern</module>
+        <module>structure-pattern</module>
     </modules>
 
     <properties>
